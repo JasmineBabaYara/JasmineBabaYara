@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jasmine Baba Yara</h1>
 <h3 align="center">A Dedicated Frontend Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/babayarajasmine" target="blank"><img src="https://img.shields.io/twitter/follow/babayarajasmine?logo=twitter&style=for-the-badge" alt="babayarajasmine" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/jasmine baba yara" target="blank"><img src="https://img.shields.io/linkendin/follow/babayarajasmine?logo=linkedin&style=for-the-badge" alt="babayarajasmine" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
